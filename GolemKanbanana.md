@@ -1,4 +1,4 @@
-## How I discovered a security issue in Golem, and 
+## How I discovered a security issue in Golem 0.14.0, and 
 
 ...why I think it will be close to impossible to get it handled correclty. -- by Kanbanana Joe
 
