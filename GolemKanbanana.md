@@ -2,7 +2,9 @@
 
 ...why I think it will be close to impossible to get it handled correclty. -- by Kanbanana Joe
 
-One thing beforehand, those of you who love me, can give me some tasty BTC: 1Dqy8z86VA28Qp133UjZZNAJN1XXwzx4bw
+One thing beforehand, those of you who love me, can give me some tasty BTC:
+1Dqy8z86VA28Qp133UjZZNAJN1XXwzx4bw
+
 But what comes next is my gift for you guys and, most importantly, to the Golem devs. You do not want to go to mainnet as this.
 
 But lets go back to the start. I was really excited about the latest Golem blog post; Golem (KanBan or so) finally goes mainnet. Somewhere else I have also read that every release is undergoing thorough security checks. Sounds as if everything is perfectly fine; how else could there be enough time for holding talks at conferences and taking extensive care of the Twitter account. I should be proven wrong, later on. But let me first start with this: This is no rant or anything, and I am not trying to bash Golem. Clearly, my heart beats for the Elastic project (it just appeals to me a bit more from the technological perspective(, but in the end we all have that one goal - move forward crypto for a better world. So I hope that this disclosure will open some eyes (leave some mouths open) and remind people that design indeed has priority over marketing and social media. I know that the Elastic project (one of the fanciest super computers which allows the execution of self-programmed tasks) has been criticized for disappearing in a black hole for months, into a shady cloud full of coding and never even reporting a word about what they do. But I really think that this was a wise choice in the end! They got their verification algorithm straight; when jobs are properly coded, I cannot see any way how the work verification can be tricked whatsoever.
