@@ -18,7 +18,7 @@ Let me point that out once again, this is important:
 
 ## The Snail Attack
 
-Well, while this little issue is not an issue at all if you rent a AWS instance, it becomes an issue (or a cool advandate, depending whether you are a worker or buyer) in a decentralized setting where other people pay money for you to carry out the rendering work.
+Well, while this little issue is not an issue at all if you rent a AWS instance, it becomes an issue (or a cool advantage, depending whether you are a worker or buyer) in a decentralized setting where other people pay money for you to carry out the rendering work.
 
 Since there is no way to know how long a task will take, you as a buyer can only configure a maximum deadline (say, I want my task done in 10 hours and not later) and a desired amount you are willing to spend *PER HOUR*.
 
